@@ -1,27 +1,27 @@
-# Madara — Assistente de Voz com Gemini Live API
+# MADARA Voice Assistant
 
-Este é o repositório do aplicativo Android **Madara**, um assistente de voz avançado que utiliza a API de inteligência artificial Gemini Live. Com uma persona inspirada no estilo direto e pragmático, o aplicativo permite controlar diversas funções do celular por comandos de voz e interagir de forma fluida.
+This is the repository for the Android application **MADARA**, an advanced voice assistant that uses the Gemini Live artificial intelligence API. With a persona inspired by a direct and pragmatic style, the application allows controlling various phone functions via voice commands and interacting fluidly.
 
-## ⚠️ Sobre o Aplicativo e Limites do Sistema
+## ⚠️ About the App and System Limitations
 
-- **Segurança da Tela:** Por limitações de segurança do próprio sistema operacional Android, nenhum aplicativo de terceiros é capaz de desbloquear a tela do dispositivo por comando de voz. O aplicativo consegue bloquear a tela, mas o desbloqueio deve ser feito manualmente pelo usuário.
-- **Configurações de Rede e Bluetooth:** Recursos como o ponto de acesso Wi-Fi (hotspot) e Bluetooth possuem interações que dependem de confirmação manual ou redirecionamento para as configurações do sistema.
+- **Screen Security:** Due to security limitations of the Android operating system itself, no third-party app is able to unlock the device's screen by voice command. The app can lock the screen, but unlocking must be done manually by the user.
+- **Network and Bluetooth Settings:** Features such as Wi-Fi hotspot and Bluetooth have interactions that depend on manual confirmation or redirection to system settings.
 
-## Como Utilizar o Aplicativo
+## How to Use the Application
 
-Para utilizar o aplicativo Madara, é necessário possuir uma conta de acesso. 
+To use the MADARA application, you need an access account and must configure the API key.
 
-### Criação de Contas
-O aplicativo não possui uma opção de auto-cadastro na tela inicial para garantir o controle e a segurança dos acessos. Para criar a sua conta e começar a usar o assistente, você deve entrar em contato diretamente com o administrador do sistema.
+### Account Creation
+Now you can create your account directly through the application. There are two ways to register:
+- **Email and Password:** Fill in the registration fields with a valid email and a secure password.
+- **Sign in with Google:** Use your Google account for quick and integrated access.
 
-### Contatos do Administrador
-Para solicitar a criação da sua conta ou obter suporte, entre em contato através dos canais abaixo:
-- **Email:** gigawalljfl@gmail.com
-- **WhatsApp:** +258845381620
+### API Key Setup (Gemini Live)
+The application works using the Gemini Live API key. For the assistant to function correctly, you must enter your API key in the application settings.
 
-## Recursos Principais
-
-- **Comando de voz em tempo real:** Conversas fluidas utilizando a tecnologia Gemini Live API.
-- **Controle do dispositivo:** Capacidade de interagir com aplicativos, ajustar volumes, ler notificações e gerenciar arquivos mediante as permissões concedidas.
-- **Memória Personalizada:** O assistente é capaz de lembrar de fatos e preferências importantes informados durante as conversas, adaptando a experiência ao perfil do usuário.
-- **Temas Visuais:** Interface dinâmica com suporte a temas visuais customizáveis.
+#### How to get your Gemini Live API Key:
+1. Access Google AI Studio (aistudio.google.com).
+2. Log in with your Google account.
+3. Navigate to the API keys section (API Keys).
+4. Click on "Create API key".
+5. Copy the generated key and paste it into the appropriate field within the MADARA application.
