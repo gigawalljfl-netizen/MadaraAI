@@ -1,27 +1,12 @@
-# MADARA Voice Assistant
+# M.A.D.A.R.A.AI
 
-This is the repository for the Android application **MADARA**, an advanced voice assistant that uses the Gemini Live artificial intelligence API. With a persona inspired by a direct and pragmatic style, the application allows controlling various phone functions via voice commands and interacting fluidly.
+**M.A.D.A.R.A.AI - Mobile Advanced Digital Assistant for Runtime**
+**Developed by:** Giga Wall JFL
 
-## ⚠️ About the App and System Limitations
+## About the System
+Madara AI is a high-performance autonomous artificial intelligence core for the Android ecosystem, developed to exert absolute control over the device and dominate mobile development environments. Designed for maximum efficiency and operational autonomy. The system operates exclusively through real-time voice interaction. A deliberate architectural decision to ensure total immersion and hands-free operations, coupled with a direct execution command architecture.
 
-- **Screen Security:** Due to security limitations of the Android operating system itself, no third-party app is able to unlock the device's screen by voice command. The app can lock the screen, but unlocking must be done manually by the user.
-- **Network and Bluetooth Settings:** Features such as Wi-Fi hotspot and Bluetooth have interactions that depend on manual confirmation or redirection to system settings.
-
-## How to Use the Application
-
-To use the MADARA application, you need an access account and must configure the API key.
-
-### Account Creation
-Now you can create your account directly through the application. There are two ways to register:
-- **Email and Password:** Fill in the registration fields with a valid email and a secure password.
-- **Sign in with Google:** Use your Google account for quick and integrated access.
-
-### API Key Setup (Gemini Live)
-The application works using the Gemini Live API key. For the assistant to function correctly, you must enter your API key in the application settings.
-
-#### How to get your Gemini Live API Key:
-1. Access Google AI Studio (aistudio.google.com).
-2. Log in with your Google account.
-3. Navigate to the API keys section (API Keys).
-4. Click on "Create API key".
-5. Copy the generated key and paste it into the appropriate field within the MADARA application.
+## Core Capabilities
+- **Exclusive Voice Interface:** A real-time, bidirectional vocal communication subsystem specifically designed to interact solely through voice. Allowing total command of operations via smartphone and instant responses without the need for visual or manual interference.
+- **Runtime and System Automation:** Ruthless management of the device’s routines, processes, and functionalities, executing complex commands with surgical precision.
+- **Terminal Mastery and Termux Integration:** A high-performance native bridge with the Termux CLI interface, transforming the device into a portable command station for software engineering, scripting, and code debugging at the system level.
